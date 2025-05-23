@@ -58,7 +58,7 @@ PCAST uses the following technologies:
 
 2. **Clone the repository**:
 ```bash
-git clone https://github.com/username/pcast.git
+git clone https://github.com/4xachi/pcast.git
 cd pcast
 ```
 
@@ -84,7 +84,7 @@ pkg install python python-pip git termux-api
 
 3. **Clone the repository**:
 ```bash
-git clone https://github.com/username/pcast.git
+git clone https://github.com/4xachi/pcast.git
 cd pcast
 ```
 
